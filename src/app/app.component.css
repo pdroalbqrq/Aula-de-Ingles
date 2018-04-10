@@ -1,0 +1,13 @@
+.background {
+    background: black
+}
+.btn {
+    background: rgb(255, 255, 255);
+
+}
+
+.btn-inverse{
+    background: rgb(253, 253, 253);
+    border: rgb(255, 255, 255);
+
+}

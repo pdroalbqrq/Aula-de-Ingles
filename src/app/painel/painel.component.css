@@ -1,0 +1,22 @@
+.jumbotron {
+    margin-top: 250px;
+    padding-top: 30px;
+    padding-bottom: 50px;   
+}
+
+.btn {
+    background: black;
+}
+
+.btn-primary{
+    background: black;
+    border: black;
+}
+
+.form-control {
+    font-size: 20px;
+}
+.fonte {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
